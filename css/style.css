@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(206, 245, 211);
+}
+#emailwrn {
+   color : red;
+}
+#namewrn{
+    color: red;
+}
+#lnamewrn{
+    color: red;
+}
+#countrywrn{
+    color: red;
+}
+#citywrn{
+    color: red;
+}
+#zipwrn{
+    color: red;
+}
+
+i {
+    font-size: 50px;
+    color: blue;
+    margin-top: 50px;
+   
+}
+#we{
+    text-align: center;
+}
